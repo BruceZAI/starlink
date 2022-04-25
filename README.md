@@ -8,6 +8,7 @@ React JS based Starlink Trajectory Visualization
 
 Domain: https://prod.dwsym7i6cmxpv.amplifyapp.com
 
+![image](https://user-images.githubusercontent.com/41571096/165006298-feeab949-12d3-477c-9069-230702fbe0fc.png)
 
 
 
